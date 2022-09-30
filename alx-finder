@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Enter file name:"
+read FILENAME
+FILEPATH="$(find -name $FILENAME)"
+echo $FILEPATH
+cp -i $FILEPATH ~/alx-low_level_programming/0x09-static_libraries
+
