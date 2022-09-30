@@ -2,7 +2,7 @@
 echo "Enter file name:"
 read FILENAME
 FILEPATH="$(find ~/ -name $FILENAME | head -n 1)"
-echo "path is:" 
+echo "copying from: path:" 
 echo  $FILEPATH
 cp -i $FILEPATH ~/alx-low_level_programming/0x09-static_libraries
 
