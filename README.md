@@ -2,7 +2,7 @@
 <h2> Description </h2>
 <ul>
 <li>
-<b> alx-finder:</b> finds the given files and copy to ~/alx-low_level_programming/0x09-static_libraries
+<h3><b> alx-finder:</b></h3> finds the given files and copy to ~/alx-low_level_programming/0x09-static_libraries
 <ul>
 <li>script will search from home directory and return the first path found from which it copies the file.</li>
 <li>it will also warn if file already exist:  y/Y will replace the file. n/N will cancel execution.</li>
