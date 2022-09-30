@@ -6,7 +6,7 @@
 <ul>
 <li>script will search from home directory and return the first path found from which it copies the file.</li>
 <li>it will also warn if file already exist:  y/Y will replace the file. n/N will cancel execution.</li>
-<li>will only return part where copy is made if succesful </li>
+<li>will only return path where copy is made if process is succesful </li>
 </ul>
 </li>
 <li> 
